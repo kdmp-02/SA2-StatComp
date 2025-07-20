@@ -15,7 +15,7 @@ We are a team of data scientists working for a research lab that investigates ph
 
 ## Outline:
 
-### **I. Introduction and Dataset Overview
+### **I. Introduction and Dataset Overview**
 
 ### **II. Exeploratory Data Analysis (EDA)**
 
