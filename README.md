@@ -2,7 +2,7 @@
 
 #### Data Meets Method: Collaborative Exploration of Advanced Resampling & Interference
 
-We are a team of student data scientists working in a multidisciplinary research initiative that explroes real-world phenomena using advanced statistical methods. Our focus lies on applying resampling and inferential techniques to uncover insights from data in domains such as public health, finance, and climate science. For this project, we investigate the **burden of duenge in the Philippines** using a comprehensive dataset spanning several demographic dimensions.
+We are a team of student data scientists working in a multidisciplinary research initiative that explores real-world phenomena using advanced statistical methods. Our focus lies on applying resampling and inferential techniques to uncover insights from data in domains such as public health, finance, and climate science. For this project, we investigate the **burden of duenge in the Philippines** using a comprehensive dataset spanning several demographic dimensions.
 
 **Group Members:**
 * Team Leader: Kyte Daiter Percia
