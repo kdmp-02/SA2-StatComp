@@ -19,15 +19,15 @@ We are a team of student data scientists working in a multidisciplinary research
 
 Dengue fever remains a persistent and growing public health concern in tropical regions, particularly in the Philippines (Villejo et al., 2025). Characterized by seasonal urges, regional disparities, and demographic-specific risks, dengue's complex dynamics make it an ideal case for rigorous statistical exploration.
 
-In this project, we utilize a a dataset comprising monthly dengue case and death counts across all 17 administrative regions of the Philippines from 20011 to 2015. What sets this dataset apart is its multidimensional disaggregation by:
+In this project, we utilize a dataset comprising monthly dengue case and death counts across all 17 administrative regions of the Philippines from 20011 to 2015. What sets this dataset apart is its multidimensional disaggregation by:
 
 * **Age group**: `<1`, `1–4`, `5–14`, `15–24`, `25–39`, `40–64`, `65+`, and `Unspecified`
-* **Sex**: `Male`, `Female`, `Unspecified`
+* **Sex**: `Male`, `Female`
 * **Region**: All official regions in the Philippines
 
 *See `Datasets` folder above* 
 
-Each observation represents a unique combination of these attributes per month and year, allowing for an in-depth temporal and demographic analysis. The dataset contains both **dengue cases and deaths**, enabling the computation of important metrics such as the **case fatality rate (CFR)**. This detail provides a foundation for statistical analysis that spans descriptive analytics, uncertainty quantification, hypothesis testing, and Bayesian inference.
+Each observation represents a unique combination of these attributes per year, allowing for an in-depth temporal and demographic analysis. The dataset contains both **dengue cases and deaths**, enabling the computation of important metrics such as the **case fatality rate (CFR)**. This detail provides a foundation for statistical analysis that spans descriptive analytics, uncertainty quantification, hypothesis testing, and Bayesian inference.
 
 To fully leverage this dataset, we begin by exploring its structure and performing preliminary analysis in the next section. This **Exploratory Data Analysis (EDA)** phase will help identify trends, outliers, and potential data quality issues. We will also prepare and clean the dataset to ensure it is suitable for the advanced statistical procedures that follow in the subsequent components of this project.
 
