@@ -2,7 +2,7 @@
 
 #### Data Meets Method: Collaborative Exploration of Advanced Resampling & Interference
 
-We are a team of student data scientists working in a multidisciplinary research initiative that explores real-world phenomena using advanced statistical methods. Our focus lies on applying resampling and inferential techniques to uncover insights from data in domains such as public health, finance, and climate science. For this project, we investigate the **burden of duenge in the Philippines** using a comprehensive dataset spanning several demographic dimensions.
+We are a team of student data scientists working in a multidisciplinary research initiative that explores real-world phenomena using advanced statistical methods. Our focus lies on applying resampling and inferential techniques to uncover insights from data in domains such as public health, finance, and climate science. For this project, we investigate the **burden of dengue in the Philippines** using a comprehensive dataset spanning several demographic dimensions.
 
 **Group Members:**
 * Team Leader: Kyte Daiter Percia
@@ -37,9 +37,9 @@ To fully leverage this dataset, we begin by exploring its structure and performi
 
 ### **III. Problem Statement**
 
-In this research, we aim to quantify and explain disparities in dengue bruden in the Philippines using half a decade of surveillance data disaggregated by sex, age, region, and time. Our central goal is to understand whether these disparities are statistically significant and stable over time, and to quantify the uncertainty in key summary metrics using resampling and Bayesian inference. We apply a range of statistical techniques - from bootsrap estimation to permutation testing and MCMC - to build a rigorous, multi-faceted view of dengue severity and distribution.
+In this research, we aim to quantify and explain disparities in dengue burden in the Philippines using half a decade of surveillance data disaggregated by sex, age, region, and time. Our central goal is to understand whether these disparities are statistically significant and stable over time, and to quantify the uncertainty in key summary metrics using resampling and Bayesian inference. We apply a range of statistical techniques - from bootstrap estimation to permutation testing and MCMC - to build a rigorous, multi-faceted view of dengue severity and distribution.
 
-With that, we aim the answer the problem:
+With that, we aim to the answer the ff. problem:
 
 **1. How does the burden and severity of dengue fever vary across regions, sexes, and age groups in the Philippines from 2008 to 2015, and how reliably can these patterns be modeled and inferred using advanced resampling and Bayesian techniques?**
 
