@@ -43,6 +43,38 @@ With that, we aim the answer the problem:
 
 **1. How does the burden and severity of dengue fever vary across regions, sexes, and age groups in the Philippines from 2008 to 2015, and how reliably can these patterns be modeled and inferred using advanced resampling and Bayesian techniques?**
 
+**Sub-Questions for Problem Statements**
+1. Temporal-Regional Burden
+* * *Are certain regions consistently more affected over time in terms of both dengue cases and deaths?*
+* * *What is the uncertainty in regional averages of yearly cases/deaths?*
+
+→ Use for: **Bootstrap & Jackknife**, **Probability Density Estimation**
+ 
+2. Sex-Based Differences in Dengue Outcomes
+* * *Do males and females exhibit significantly different dengue case fatality rates across regions?*
+* * *Is the sex effect stable or variable across regions and time?*
+ 
+→ Use for: **Permutation Tests**, **Bootstrap CI**, **Model Validation**
+
+3. Age Group Vulnerability and Mortality
+* * *Which age groups are most vulnerable to infection and death?*
+* * *Is CFR disproportionately higher in older or younger age groups?*
+* * *How much uncertainty is there in these rates?*
+
+→ Use for: **Bayesian Modeling (e.g., logistic regression)**, **Bootstrap**, **MCMC**
+
+4. Modeling and Predicting Severity
+* * *Can we predict dengue deaths from case counts and demographic variables (sex, age, region)?*
+* * *Which predictors (age, sex, region) contribute most to death probability?*
+
+→ Use for: **Resampling for Model Validation**, **MCMC for Bayesian Inference**
+
+5. Statistical Inference of Group Differences
+
+* * Are differences in dengue outcomes between any two regions statistically significant, or could they be due to chance?*
+
+→ Use for: **Permutation Tests**, **Bootstrap**
+
 ### **IV. Components & Analysis Plan**
 
 #### **1. Bootstrap & Jackknife: Estimating Uncertainty of the Mean Dengue Cases**
