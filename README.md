@@ -37,6 +37,12 @@ To fully leverage this dataset, we begin by exploring its structure and performi
 
 ### **III. Problem Statement**
 
+In this research, we aim to quantify and explain disparities in dengue bruden in the Philippines using an almost decade of surveillance data disaggregated by sex, age, region, and time. Our central goal is to understand whether these disparities are statistically significant and stable over time, and to quantify the uncertainty in key summary metrics using resampling and Bayesian inference. We apply a range of statistical techniques - from bootsrap estimation to permutation testing and MCMC - to build a rigorous, multi-faceted view of dengue severity and distribution.
+
+With that, we aim the answer the problem:
+
+**1. How does the burden and severity of dengue fever vary across regions, sexes, and age groups in the Philippines from 2008 to 2015, and how reliably can these patterns be modeled and inferred using advanced resampling and Bayesian techniques?**
+
 ### **IV. Components & Analysis Plan**
 
 #### **1. Bootstrap & Jackknife: Estimating Uncertainty of the Mean Dengue Cases**
