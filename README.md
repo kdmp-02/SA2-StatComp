@@ -25,7 +25,7 @@ In this project, we utilize a a dataset comprising monthly dengue case and death
 * **Sex**: `Male`, `Female`, `Unspecified`
 * **Region**: All official regions in the Philippines
 
-*See `Datasets` branch above* 
+*See `Datasets` folder above* 
 
 Each observation represents a unique combination of these attributes per month and year, allowing for an in-depth temporal and demographic analysis. The dataset contains both **dengue cases and deaths**, enabling the computation of important metrics such as the **case fatality rate (CFR)**. This detail provides a foundation for statistical analysis that spans descriptive analytics, uncertainty quantification, hypothesis testing, and Bayesian inference.
 
@@ -33,7 +33,7 @@ To fully leverage this dataset, we begin by exploring its structure and performi
 
 ### **II. Exploratory Data Analysis (EDA)**
 
-*See `Exploratory Data Analysis (EDA)` branch above*
+*See `Exploratory Data Analysis (EDA)` folder above*
 
 ### **III. Problem Statement**
 
@@ -41,27 +41,27 @@ To fully leverage this dataset, we begin by exploring its structure and performi
 
 #### **1. Bootstrap & Jackknife: Estimating Uncertainty of the Mean Dengue Cases**
 
-*See `Bootstrap & Jackknife` branch above*
+*See `Bootstrap & Jackknife` folder above*
 
 #### **2. Resampling for Model Validation: Predicting Dengue Cases**
 
-*See `Resampling for Model Validation` branch above*
+*See `Resampling for Model Validation` folder above*
 
 #### **3. Permutation Test: Are Regional Differences in Cases Significant?**
 
-*See `Permutation Test` branch above*
+*See `Permutation Test` folder above*
 
 #### **4. MCMC for Bayesian Inference: Linear Regression Model**
 
-*See `MCMC for Bayesian Inference` branch above*
+*See `MCMC for Bayesian Inference` folder above*
 
 #### **5. Probability Density Estimation: What is the Shape of Dengue Case Distribution?**
 
-*See `Probability Density Estimation` branch above*
+*See `Probability Density Estimation` folder above*
 
 ### **V. Summary Report**
 
-*See `Summary Report` branch above*
+*See `Summary Report` folder above*
 
 ### References:
 
