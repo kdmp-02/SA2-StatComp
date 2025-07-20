@@ -11,7 +11,7 @@ We are a team of student data scientists working in a multidisciplinary research
 
 ## Title of Research
 
-# Beyond the Numbers: A Resampling & Bayesian Perspective on Dengue Burden in the Philippines by Age, Sex, and Region (2008-2015)
+# Beyond the Numbers: A Resampling & Bayesian Perspective on Dengue Burden in the Philippines by Age, Sex, and Region (20011-2015)
 
 ## Outline:
 
@@ -19,7 +19,7 @@ We are a team of student data scientists working in a multidisciplinary research
 
 Dengue fever remains a persistent and growing public health concern in tropical regions, particularly in the Philippines (Villejo et al., 2025). Characterized by seasonal urges, regional disparities, and demographic-specific risks, dengue's complex dynamics make it an ideal case for rigorous statistical exploration.
 
-In this project, we utilize a a dataset comprising monthly dengue case and death counts across all 17 administrative regions of the Philippines from 2008 to 2015. What sets this dataset apart is its multidimensional disaggregation by:
+In this project, we utilize a a dataset comprising monthly dengue case and death counts across all 17 administrative regions of the Philippines from 20011 to 2015. What sets this dataset apart is its multidimensional disaggregation by:
 
 * **Age group**: `<1`, `1–4`, `5–14`, `15–24`, `25–39`, `40–64`, `65+`, and `Unspecified`
 * **Sex**: `Male`, `Female`, `Unspecified`
@@ -37,7 +37,7 @@ To fully leverage this dataset, we begin by exploring its structure and performi
 
 ### **III. Problem Statement**
 
-In this research, we aim to quantify and explain disparities in dengue bruden in the Philippines using an almost decade of surveillance data disaggregated by sex, age, region, and time. Our central goal is to understand whether these disparities are statistically significant and stable over time, and to quantify the uncertainty in key summary metrics using resampling and Bayesian inference. We apply a range of statistical techniques - from bootsrap estimation to permutation testing and MCMC - to build a rigorous, multi-faceted view of dengue severity and distribution.
+In this research, we aim to quantify and explain disparities in dengue bruden in the Philippines using half a decade of surveillance data disaggregated by sex, age, region, and time. Our central goal is to understand whether these disparities are statistically significant and stable over time, and to quantify the uncertainty in key summary metrics using resampling and Bayesian inference. We apply a range of statistical techniques - from bootsrap estimation to permutation testing and MCMC - to build a rigorous, multi-faceted view of dengue severity and distribution.
 
 With that, we aim the answer the problem:
 
